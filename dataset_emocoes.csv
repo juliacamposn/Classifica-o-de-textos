@@ -1,0 +1,305 @@
+text,label
+"Esse produto é péssimo.",0
+"Não gostei do atendimento.",0
+"A comida estava fria.",0
+"O serviço foi muito ruim.",0
+"Nada funciona direito aqui.",0
+"O preço é absurdo.",0
+"Foi uma experiência decepcionante.",0
+"Não voltarei mais a este lugar.",0
+"A entrega atrasou demais.",0
+"Estou muito insatisfeito.",0
+"A qualidade deixou a desejar.",0
+"Não recomendo para ninguém.",0
+"Achei horrível.",0
+"O aplicativo trava toda hora.",0
+"É completamente inaceitável.",0
+"O suporte técnico é inútil.",0
+"A embalagem veio danificada.",0
+"A limpeza era péssima.",0
+"Senti que fui enganado.",0
+"O ambiente era desconfortável.",0
+"O produto veio com defeito.",0
+"Não consegui resolver meu problema.",0
+"O site está fora do ar.",0
+"Fui mal atendido.",0
+"Não vale o preço cobrado.",0
+"A experiência foi frustrante.",0
+"Detestei o sabor do prato.",0
+"A loja não cumpriu o prazo.",0
+"Os funcionários foram grosseiros.",0
+"A fila era interminável.",0
+"Tudo parecia desorganizado.",0
+"Não atendeu às minhas expectativas.",0
+"Os materiais são de baixa qualidade.",0
+"Não consegui acessar minha conta.",0
+"O lugar estava muito sujo.",0
+"Achei tudo caro e ruim.",0
+"Ninguém respondeu minhas dúvidas.",0
+"O barulho era insuportável.",0
+"A política de troca é horrível.",0
+"Não havia ninguém para ajudar.",0
+"A conexão estava instável.",0
+"O suporte nunca atende.",0
+"Foi um desperdício de dinheiro.",0
+"Nunca mais compro aqui.",0
+"A resposta foi extremamente demorada.",0
+"A pintura descascou em poucos dias.",0
+"A montagem foi muito complicada.",0
+"O manual não explica nada.",0
+"A luz estava fraca no local.",0
+"O design é feio e ultrapassado.",0
+"Não funciona como prometido.",0
+"A equipe não demonstrou interesse.",0
+"Não consegui cancelar a assinatura.",0
+"O aplicativo é cheio de bugs.",0
+"Foi uma perda de tempo total.",0
+"A comida estava sem sabor.",0
+"Não há suporte para o meu problema.",0
+"A embalagem estava aberta.",0
+"Não respeitam os consumidores.",0
+"A resposta foi vaga e inútil.",0
+"A fila do atendimento era enorme.",0
+"Nada foi feito para me ajudar.",0
+"Os ingredientes não eram frescos.",0
+"O produto não corresponde à descrição.",0
+"Fui ignorado no chat de suporte.",0
+"O serviço é extremamente lento.",0
+"Achei a experiência entediante.",0
+"A garantia não cobre o problema.",0
+"A propaganda é enganosa.",0
+"Nada foi resolvido até agora.",0
+"O atendimento demorou muito.",0
+"O produto não corresponde ao anúncio.",0
+"A comida chegou completamente fria.",0
+"O site não carrega de jeito nenhum.",0
+"Não consegui falar com o suporte.",0
+"A qualidade é muito inferior ao esperado.",0
+"O local estava muito barulhento.",0
+"A promessa de reembolso não foi cumprida.",0
+"O aplicativo é confuso e pouco funcional.",0
+"O produto veio faltando peças importantes.",0
+"Não me senti bem recebido no estabelecimento.",0
+"O cheiro no ambiente era desagradável.",0
+"Não havia nenhuma opção disponível no cardápio.",0
+"O produto foi entregue com arranhões.",0
+"A resposta do atendimento foi evasiva.",0
+"Tive muita dificuldade em resolver meu problema.",0
+"O preço é completamente injustificado.",0
+"O local estava muito mal iluminado.",0
+"Não cumpriram o horário combinado.",0
+"A embalagem estava totalmente amassada.",0
+"Os ingredientes não pareciam frescos.",0
+"O serviço foi prestado de forma apressada e descuidada.",0
+"A conexão do Wi-Fi era péssima.",0
+"O funcionário foi rude comigo.",0
+"Não havia sinalização adequada no local.",0
+"O produto que recebi era usado.",0
+"Não recomendo por causa da má experiência.",0
+"A política de devolução é complicada demais.",0
+"O suporte apenas enrola e não resolve nada.",0
+"O pagamento foi cobrado duas vezes.",0
+"O site está disponível para acesso.",1
+"O pedido foi registrado no sistema.",1
+"A loja abre às 9h.",1
+"O manual veio na caixa.",1
+"As opções foram apresentadas.",1
+"A instalação foi realizada.",1
+"O pagamento foi confirmado.",1
+"O cliente retirou o produto na loja.",1
+"A fila para o atendimento era moderada.",1
+"O suporte técnico atendeu a ligação.",1
+"O aplicativo foi atualizado.",1
+"A encomenda chegou na portaria.",1
+"A embalagem era de plástico.",1
+"O cardápio tinha diversas opções.",1
+"O funcionário explicou o procedimento.",1
+"O contrato foi assinado ontem.",1
+"A temperatura estava agradável.",1
+"O documento foi enviado por e-mail.",1
+"Fiz o login no site sem dificuldades.",1
+"A loja estava com um movimento regular.",1
+"O local tinha mesas e cadeiras disponíveis.",1
+"A luz foi restabelecida rapidamente.",1
+"O carro estava estacionado na vaga.",1
+"A entrega foi feita pelo correio.",1
+"O sistema exige senha para acesso.",1
+"Os itens estavam na prateleira.",1
+"O funcionário estava uniformizado.",1
+"A senha foi gerada no aplicativo.",1
+"O ingresso foi escaneado na entrada.",1
+"O bar tinha várias opções de bebidas.",1
+"A reunião começou no horário marcado.",1
+"O e-mail foi respondido em um dia útil.",1
+"A loja aceita diversas formas de pagamento.",1
+"O espaço tinha uma iluminação básica.",1
+"O pedido foi cancelado pelo cliente.",1
+"Os documentos foram arquivados corretamente.",1
+"O pacote foi retirado no correio.",1
+"O contrato estava dentro das normas.",1
+"O item está indisponível no momento.",1
+"O hotel oferece café da manhã.",1
+"O sistema permite cadastro de usuários.",1
+"O botão liga/desliga está na lateral.",1
+"O prazo de resposta é de 48 horas.",1
+"A senha foi alterada pelo cliente.",1
+"O site exibe uma mensagem de manutenção.",1
+"O produto chegou.",1
+"O pedido foi entregue.",1
+"O atendimento foi realizado.",1
+"A embalagem estava fechada.",1
+"Fiz o cadastro no site.",1
+"Recebi o email de confirmação.",1
+"A loja estava aberta.",1
+"A compra foi feita com cartão.",1
+"Os documentos foram enviados.",1
+"Fiz o pagamento hoje.",1
+"A loja estava cheia.",1
+"Consegui instalar o aplicativo.",1
+"Liguei para o suporte técnico.",1
+"O site está disponível.",1
+"Havia fila no caixa.",1
+"Fiz a troca do produto.",1
+"O motorista fez a entrega.",1
+"O restaurante abriu às 10h.",1
+"O sistema foi atualizado.",1
+"O cliente assinou o contrato.",1
+"O produto está em estoque.",1
+"A conta foi paga.",1
+"O prazo termina amanhã.",1
+"A loja fica no centro da cidade.",1
+"O item está na promoção.",1
+"O boleto foi emitido pelo sistema.",1
+"A chave do carro estava na mesa.",1
+"O portão foi fechado às 18h.",1
+"O ônibus passou no horário marcado.",1
+"O cliente retirou a senha para atendimento.",1
+"O produto estava na prateleira superior.",1
+"A encomenda foi conferida pelo entregador.",1
+"O evento foi anunciado nas redes sociais.",1
+"A porta automática abriu assim que cheguei.",1
+"O relógio foi ajustado para o horário de verão.",1
+"O arquivo foi salvo no formato PDF.",1
+"O mercado estava abastecido com novos produtos.",1
+"O café foi servido às 8h.",1
+"O ar-condicionado foi desligado antes da reunião.",1
+"O veículo foi estacionado no subsolo.",1
+"O pedido foi anotado no caderno.",1
+"O microfone estava posicionado sobre a mesa.",1
+"A luz do corredor estava apagada.",1
+"O sinal de trânsito estava verde.",1
+"O pacote foi deixado na recepção.",1
+"A página do livro estava dobrada.",1
+"O cartão foi inserido na máquina.",1
+"A aula começou no horário programado.",1
+"O telefone tocou algumas vezes antes de ser atendido.",1
+"O contrato foi digitalizado e enviado por e-mail.",1
+"O cliente solicitou a nota fiscal.",1
+"A máquina registradora estava funcionando normalmente.",1
+"O copo foi colocado sobre o balcão.",1
+"A sala tinha 10 cadeiras disponíveis.",1
+"O sinal da internet foi restabelecido.",1
+"O elevador parou no andar correto.",1
+"Adorei o produto!",2
+"O atendimento foi excelente.",2
+"Tudo chegou no prazo combinado.",2
+"O serviço foi perfeito.",2
+"A comida estava deliciosa.",2
+"Fiquei muito satisfeito.",2
+"O preço é justo.",2
+"Foi uma experiência incrível.",2
+"Recomendo para todos!",2
+"Superou minhas expectativas.",2
+"O ambiente era acolhedor.",2
+"A qualidade é maravilhosa.",2
+"Valeu cada centavo.",2
+"Parabéns pelo trabalho!",2
+"O aplicativo é fácil de usar.",2
+"Farei mais compras com certeza.",2
+"É o melhor que já usei.",2
+"A equipe foi muito atenciosa.",2
+"Tudo funcionou perfeitamente.",2
+"Excelente custo-benefício.",2
+"O produto é de alta qualidade.",2
+"Foi tudo muito rápido e eficiente.",2
+"O atendimento me surpreendeu positivamente.",2
+"A comida é fantástica.",2
+"Gostei muito da experiência.",2
+"O local é muito bem decorado.",2
+"Achei o design moderno e bonito.",2
+"A equipe foi super prestativa.",2
+"Tudo estava limpo e organizado.",2
+"A entrega foi antes do esperado.",2
+"Os preços são muito bons.",2
+"O sistema é muito intuitivo.",2
+"Fiquei impressionado com a qualidade.",2
+"Consegui resolver tudo com facilidade.",2
+"O ambiente era tranquilo e agradável.",2
+"Funcionou perfeitamente no meu caso.",2
+"Recomendo sem dúvidas!",2
+"Estou encantado com o serviço.",2
+"A apresentação dos pratos era impecável.",2
+"Foi uma ótima experiência de compra.",2
+"O produto é muito durável.",2
+"Vale muito a pena investir nisso.",2
+"A comunicação foi clara e objetiva.",2
+"O sistema é bem robusto.",2
+"Fui muito bem recebido.",2
+"As opções no cardápio eram variadas.",2
+"O suporte foi rápido e eficiente.",2
+"Todo o processo foi muito transparente.",2
+"Senti muita segurança durante a compra.",2
+"As cores do produto são incríveis.",2
+"Super fácil de usar.",2
+"A entrega foi cuidadosamente feita.",2
+"O site tem uma ótima navegação.",2
+"Foi exatamente o que eu esperava.",2
+"Tudo estava fresquinho e saboroso.",2
+"A equipe está de parabéns!",2
+"A tecnologia usada é inovadora.",2
+"Sempre que preciso sou bem atendido.",2
+"A loja oferece uma ótima experiência.",2
+"Os ingredientes eram de excelente qualidade.",2
+"O local é perfeito para eventos.",2
+"Tudo estava funcionando como deveria.",2
+"O manual de instruções é claro.",2
+"Minhas expectativas foram superadas.",2
+"Vou recomendar para todos que conheço.",2
+"A música ambiente era perfeita.",2
+"Recebi um brinde muito legal!",2
+"Todo mundo foi muito simpático.",2
+"A experiência foi muito acolhedora.",2
+"Não vejo a hora de voltar!",2
+"A entrega foi mais rápida do que eu esperava.",2
+"O atendimento ao cliente foi impecável.",2
+"O sabor do prato estava incrível.",2
+"Tudo foi organizado com muito capricho.",2
+"O sistema é fácil e intuitivo de usar.",2
+"Fiquei encantado com a qualidade do produto.",2
+"A equipe foi extremamente atenciosa.",2
+"A limpeza do ambiente era exemplar.",2
+"O design é moderno e funcional.",2
+"A experiência superou todas as minhas expectativas.",2
+"Fiquei muito satisfeito com o resultado.",2
+"O preço é excelente pelo que oferecem.",2
+"Os funcionários foram simpáticos e prestativos.",2
+"Foi muito simples resolver meu problema.",2
+"O ambiente era acolhedor e bem iluminado.",2
+"As opções do cardápio eram variadas e deliciosas.",2
+"A embalagem chegou intacta e bem protegida.",2
+"A qualidade do material é excelente.",2
+"Tudo funcionou perfeitamente do início ao fim.",2
+"Recebi suporte rápido e eficiente.",2
+"A apresentação foi clara e detalhada.",2
+"Recomendo sem nenhuma dúvida!",2
+"O aplicativo facilita muito o dia a dia.",2
+"É um dos melhores serviços que já usei.",2
+"A entrega foi feita com muito cuidado.",2
+"As informações estavam claras e completas.",2
+"A decoração do lugar é de muito bom gosto.",2
+"O processo foi muito mais simples do que eu imaginava.",2
+"Estou extremamente feliz com minha escolha.",2
+"A experiência foi inesquecível.",2
+"Fui surpreendido de forma muito positiva!",2
+
+
