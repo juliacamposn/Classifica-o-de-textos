@@ -15,3 +15,10 @@
 ![model-config](image.png)
 ### Construção do dataset
 - O dataset deveria ser construido pelo próprio desenvolvedor do projeto, e é claro, com base na arquitetura escolhida. No meu caso foram duas base de dados diferentes, um para cada modelo, estão ambas disponíveis nos arquivos .csv deste projeto. Em algumas instruções para desenvolver o projeto foi recomendado no mínimo 100 exemplos de cada classe no dataset
+
+
+## Resultados
+- Abaixo está o chatbot de classificação de sentimentos feito com o modelo roberta-base-go_emotions, e os resultados obtidos.
+![alt text](image-1.png)
+![alt text](image-2.png)
+- Como resultado deste projeto, concluí que a classificação de sentimentos é uma tarefa desafiadora, até mesmo para nós, humanos. Durante o treinamento do modelo, percebi que ele realiza a classificação principalmente com base nos padrões apresentados no conjunto de dados utilizado. Por exemplo, para mim, Julia, a frase 'estou com fome' seria classificada como um sentimento negativo. Isso porque, de acordo com minha experiência de vida, sentir fome está associado a uma sensação desagradável, e portanto, negativa. No entanto, o modelo a classificou como neutra, evidenciando que sua interpretação depende diretamente dos dados fornecidos durante o treinamento.
